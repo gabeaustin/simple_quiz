@@ -1,12 +1,13 @@
 body {
-  background: #2c3e50;
+  background: #e67e22;
+  color: #fff;
   font-family: 'Arial', sans-serif;
   font-size: 14px;
 }
 
 #container {
   width:60%;
-  background: #2ecc71;
+  background: #3498db;
   /* use auto to push to the middle */
   margin: 20px auto;
   overflow: auto;
@@ -31,7 +32,7 @@ header p {
 
 #header_title {
   color: #34495e;
-  font-size: 14px;
+  font-size: 16px;
 }
 
 section {
@@ -43,7 +44,7 @@ footer {
 }
 
 input[type='submit'] {
-  background: #2c3e50;
+  background: #e67e22;
   border: 0;
   color: #fff;
   padding: 10px 15px;
@@ -51,13 +52,13 @@ input[type='submit'] {
 }
 
 #results h3 {
-  background: #2c3e50;
+  background: #e67e22;
   padding: 10px;
   margin: 10px 0;
 }
 
 #results span {
-  color: #000;
+  color: #34495e;
   font-weight: bold;
 }
 
